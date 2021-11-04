@@ -14,6 +14,7 @@ var n = new NameMe('John', 'Doe');
 n.firstName //Expected: John
 n.lastName //Expected: Doe
 n.name //Expected: John Doe
+
 */
 
 function NameMe(first, last) {
