@@ -8,6 +8,7 @@ The number of dogs will always be a number and there will always be at least 1 d
 */
 
 function howManyDalmatians(number){
+  
   if (number <= 10) {
     return "Hardly any"
   } else if (number <= 50) {
